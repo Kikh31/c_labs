@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-#define _USE_MATH_DEFINES
-
 int main() {
     long double z1, z2, a;
     scanf("%Lf", &a);
