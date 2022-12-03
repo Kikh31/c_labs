@@ -29,5 +29,4 @@ int main() {
         printf("%s\n", ans2);
         ans2 = strtok (NULL," ,.");
     }
-
 }

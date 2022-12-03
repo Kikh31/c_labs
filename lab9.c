@@ -11,7 +11,7 @@ int isSimple(int x) {
 
 int main() {
     setlocale(LC_ALL, "Russian");
-    char nums[10][6] = {
+    char nums[10][13] = {
             "Ноль", "Один", "Два",
             "Три", "Четыре", "Пять",
             "Шесть","Семь","Восемь",
